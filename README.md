@@ -1,3 +1,5 @@
+# Agenda-citas-maquillista
+
 El proyecto consiste en el desarrollo de un sistema web local para RangelBeautyStudio, diseñado para optimizar la gestión de citas de maquillaje. Reemplazará el método actual basado en WhatsApp, ofreciendo:
 
 Catálogo interactivo de servicios para clientes.
